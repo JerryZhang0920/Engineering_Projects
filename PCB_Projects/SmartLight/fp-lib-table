@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SmartLight)(type KiCad)(uri ${KIPRJMOD}/SmartLight.pretty)(options "")(descr ""))
+)
